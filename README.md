@@ -1,4 +1,4 @@
-# advent-of-code
+# ⭐️ Advent of Code 2021 ⭐️
 
 ![](https://img.shields.io/badge/day%20📅-7-blue)
   
