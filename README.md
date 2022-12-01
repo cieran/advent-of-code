@@ -1,4 +1,4 @@
-# ⭐️ Advent of Code 2022 ⭐️
+# ⭐️ Advent of Code 22 ⭐️
 
 ![](https://img.shields.io/badge/day%20📅-1-blue)
   
