@@ -58,15 +58,6 @@ def part_two(incorrect_order, ordering_rules, correct_order):
                 correct_order.append(pages)
 
     return sum_middle_pages(correct_order)
-
-def is_correct_order(ordering_rules, pages):
-    for page in pages:
-        behind = pages[:pages.index(page)]
-        pages_to_come_before = ordering_rules.get(page)
-        if pages_to_come_before is not None and len(behind) > 0:
-            if any(p in behind for p in pages_to_come_before):
-                return False
-    return True
         
 def is_correct_order(ordering_rules, pages):
     for page in pages:
