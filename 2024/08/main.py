@@ -12,7 +12,6 @@ def main():
     print(part_one(map))
     print(part_two(map_copy))
 
-# likely need to calc the point reflection for ant locations
 def part_one(map):
     antennae = find_antennae(map)
     unique_coords = set()
@@ -42,8 +41,6 @@ def part_one(map):
                 unique_coords.add(c3)
                 new_antinodes.add(c3)
     return len(unique_coords)
-
-
 
 def part_two(map):
     antennae = find_antennae(map)
