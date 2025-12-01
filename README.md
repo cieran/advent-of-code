@@ -1,4 +1,4 @@
-# ⭐️ advent of code 2024 ⭐️
+# ⭐️ advent of code 2025 ⭐️
 
 ![](https://img.shields.io/badge/day%20📅-25-blue)
   
