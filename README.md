@@ -1,6 +1,6 @@
 # ⭐️ advent of code 2025 ⭐️
 
-![](https://img.shields.io/badge/day%20📅-13-blue)
+![](https://img.shields.io/badge/day%20📅-14-blue)
   
 ![](https://img.shields.io/badge/stars%20⭐-18-yellow)
   
